@@ -30,6 +30,7 @@ To delete the single-node cluster, run the following command:
 
 kind delete cluster
 
+---
  ## 2. Installing a Multi-Node KIND Cluster
  Step 1: Create a Cluster Configuration
 
