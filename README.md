@@ -67,5 +67,5 @@ kubectl get nodes
  Step 3: Verify KIND Nodes as Docker Containers
 Since KIND creates Kubernetes nodes as Docker containers, you can check if the containers are running with:
 docker ps
-
+---
 
