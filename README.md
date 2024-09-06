@@ -30,7 +30,7 @@ To delete the single-node cluster, run the following command:
 
 kind delete cluster
 
- 2. Installing a Multi-Node KIND Cluster
+ ## 2. Installing a Multi-Node KIND Cluster
  Step 1: Create a Cluster Configuration
 
 To create a multi-node KIND cluster, you need a configuration file. Create a file called kind-config.yaml with the following content:
